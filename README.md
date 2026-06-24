@@ -1,2 +1,4 @@
 # AstraLog-Space-Journal
-AstraLog is a personal web project exploring astronomy and astrophysics topics while developing skills in HTML, CSS, and scientific thinking. It serves as a learning space for presenting space-related ideas and basic computational concepts.
+A website created for astronomy enthusiasts and astrophotographers.
+Still under development so no user interaction is currently available.
+I am going to make some changes in the future, but for now the overall design is complete.
