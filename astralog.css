@@ -261,6 +261,7 @@
   background-color: rgba(255, 255, 255, 0.05);
   color: #e2e4e9;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .connect-icon svg,
@@ -392,4 +393,5 @@
 .screen-mode-button:hover  {
   background-color: rgba(255, 255, 255, 0.05);
   color: #e2e4e9;
+  cursor: pointer;
 }
